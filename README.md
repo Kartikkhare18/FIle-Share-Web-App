@@ -4,6 +4,9 @@ File Share web application using MERN stack.
 The application is built using MERN, it contains 2 seperate folder naming 'client' and 'server'.
 'client' is for frontend and 'server' is for backend.
 
+#NOTE <br>
+Run npm i before running the project to install node modules and remember this project has front and backend so we have to run the terminal commands in both folders seperately. <br>
+
 # Run these terminal commands before running the application <br>
 ------SERVER------ <br>
 npm init -y <br>
