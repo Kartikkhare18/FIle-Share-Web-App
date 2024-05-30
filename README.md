@@ -1,6 +1,6 @@
 # File Share - A Versatile File Sharing Platform
 
-Introducing ShareNow, a robust MERN (MongoDB, ExpressJS, ReactJS, NodeJS) web application designed to streamline file sharing with unparalleled versatility. With File Share, users can effortlessly upload a wide 
+Introducing File Share, a robust MERN (MongoDB, ExpressJS, ReactJS, NodeJS) web application designed to streamline file sharing with unparalleled versatility. With File Share, users can effortlessly upload a wide 
 array of file formats, including text files, images, documents (PDFs, Word, Excel), videos, and more. Upon uploading, File Share generates a unique shareable link, allowing seamless access for recipients to view or 
 download the shared files. Whether you're collaborating on documents, sharing media files, or distributing resources, File Share simplifies the process with its intuitive interface and secure file management system. Experience the convenience of modern file sharing with File share - where sharing is simplified, and collaboration knows no bounds..
 
